@@ -1,0 +1,6 @@
+{
+  "name": "PathSense",
+  "description": "Ultra-low-latency offline Android computer vision & IMU fusion system for footpath obstacle and pothole detection while walking.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
